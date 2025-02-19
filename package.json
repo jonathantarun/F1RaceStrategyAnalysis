@@ -1,0 +1,29 @@
+{
+  "name": "f1racestrategyanalysis",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Jonathan Tarun Rajasekaran",
+  "license": "MIT",
+  "description": "",
+  "devDependencies": {
+    "@babel/plugin-transform-runtime": "^7.26.9",
+    "@babel/preset-env": "^7.26.9",
+    "@eslint/js": "^9.20.0",
+    "babel-jest": "^29.7.0",
+    "eslint": "^9.20.1",
+    "eslint-config-prettier": "^10.0.1",
+    "eslint-plugin-jest": "^28.11.0",
+    "globals": "^15.15.0",
+    "jest": "^29.7.0",
+    "prettier": "^3.5.1"
+  }
+}
