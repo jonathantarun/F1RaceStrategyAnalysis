@@ -1,4 +1,4 @@
-import { Driver } from "../src/Driver.js";
+import { Driver }  from "../src/Driver.js";
 
 describe("Driver Class", () => {
   let driver;
