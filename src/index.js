@@ -7,7 +7,7 @@
  *              and simulation results in the terminal.
  */
 
-import { Config } from "./config.js";
+import { Config } from "./Config.js";
 import { StrategyFactory } from "./StrategyFactory.js";
 import { Driver } from "./Driver.js";
 import { Team } from "./Team.js";
